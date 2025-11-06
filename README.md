@@ -6,15 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/faizan6573" target="blank"><img src="https://img.shields.io/twitter/follow/faizan6573?logo=twitter&style=for-the-badge" alt="faizan6573" /></a> </p>
 
-- 🔭 I’m currently working on [Walmart Intelligent Business Growth System](walmart.com)
-
-- 🌱 I’m currently learning **Nextjs, Rust, DevOps**
+- 🔭 I’m currently working with Forune 500.
 
 - 📝 I regularly write articles on [https://medium.com/@faizanjamil852](https://medium.com/@faizanjamil852)
 
 - 💬 Ask me about **react, nextjs, web security, web development**
-
-- 📫 How to reach me **faizanjamil852@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
